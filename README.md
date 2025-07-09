@@ -22,3 +22,6 @@ To use the implemented modules:
 
 1. Ensure you have access to the required cloud services (AWS, GEE, Google Cloud).
 2. Follow the steps detailed in the example notebooks
+
+![ChatGPT Image Jul 9, 2025, 07_46_24 PM](https://github.com/user-attachments/assets/44d4fb42-ff51-495b-b2c5-f318b9f499b2)
+Image is AI generated
