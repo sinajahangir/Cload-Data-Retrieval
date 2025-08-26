@@ -4,13 +4,15 @@ This repository provides tools for scalable and efficient retrieval of geospatia
 
 - **National Water Model (NWM)** data via **AWS S3**
 - **Daymet** daily gridded data via **Google Earth Engine (GEE)** and **Google Cloud Storage**
+- **NLDAS** hourly gridded data via **Google Earth Engine (GEE)** and **Google Cloud Storage**
 
 ---
 
 ## Features
 
-- **NWM Retrieval (AWS):** Access modeled streamflow and hydrological states at high spatial and temporal resolution.
+- **NWM Retrieval (AWS):** Access modeled streamflow and hydrological states at high spatial and temporal resolution across CONUS.
 - **Daymet Retrieval (GEE/Google Cloud):** Extract and process daily surface weather data for North America.
+- **NLDAS Retrieval (GEE/Google Cloud):** Extract and process hourly surface weather data for North America.
 
 > ⚠️ _This repository is under active development and will be expanded to support additional datasets and processing tools._
 
